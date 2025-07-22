@@ -1,5 +1,5 @@
 ---
-title: "Aprendizado sobre bots - um estudo sobre API do Sistema, Ponteiros de Memória e Visão Computacional, parte 1."
+title: "Aprendizado sobre bots - um estudo sobre API do sistema, ponteiros de memória e visão computacional, parte 1"
 seoTitle: "Bots: API, Ponteiros, Visão Computacional"
 seoDescription: "Uma investigação técnica sobre a guerra entre bots de jogos e sistemas anti-cheat. Explore métodos como leitura de memória, análise de rede e em nv. kernel."
 datePublished: Tue Jul 22 2025 17:42:05 GMT+0000 (Coordinated Universal Time)
@@ -10,13 +10,13 @@ tags: bot, game-development, net
 
 ---
 
-> O que começou como uma curiosidade sobre bots em jogos se tornou uma profunda investigação técnica. Para entender a raiz do problema, construí um bot do zero, mergulhando na fascinante guerra de engenharia reversa travada entre desenvolvedores e os modernos e agressivos sistemas de anti-cheat.
+> A partir de uma simples curiosidade sobre bots em jogos, iniciei uma investigação técnica aprofundada. Para compreender a essência do problema, desenvolvi um bot do zero, analisando a guerra de engenharia reversa travada entre desenvolvedores e os modernos sistemas anti-cheat.
 
 Para entender a raiz do problema, decidi construir meu próprio bot do zero. Este projeto me levou a uma jornada fascinante pela corrida armamentista tecnológica travada entre os desenvolvedores de bots e os sistemas anti-cheat.
 
 Este artigo explora os métodos mais sofisticados e "invisíveis" que bots utilizam para operar em larga escala, focando em como eles interagem diretamente com o jogo sem precisar "vê-lo", e como as defesas modernas tentam combatê-los.
 
-## Headless: Extraindo Dados da Memória e da Rede
+## Headless: extraindo dados da memória e da rede
 
 Isso me levou a questionar sobre a escala da operação: como é possível gerenciar centenas de instâncias do jogo simultaneamente, talvez em um ambiente de servidor?
 
@@ -30,7 +30,7 @@ Já a **análise de pacotes de rede** é ainda mais sofisticada: o bot "escuta" 
 
 Um exemplo desta função era a capacidade do bot de deslogar ao reconhecer que um administrador entrou no mapa, com base no seu Id.
 
-## A Escalada da Detecção e Evasão
+## A escalada da detecção e evasão
 
 Contudo, essa abordagem, embora poderosa, é a primeira a ser combatida pelos anti-cheats modernos. Sistemas de proteção realizam varreduras constantes para detectar processos externos que tentam ler a memória do jogo.
 
