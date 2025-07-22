@@ -5,6 +5,7 @@ seoDescription: "Uma investigação técnica sobre a guerra entre bots de jogos 
 datePublished: Tue Jul 22 2025 17:42:05 GMT+0000 (Coordinated Universal Time)
 cuid: cmdetnrwe000402l4al2v6zu6
 slug: aprendizado-sobre-bots-um-estudo-sobre-api-do-sistema-ponteiros-de-memoria-e-visao-computacional-parte-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753208275661/a5ae5de4-8a7c-413f-9703-11223fe4f013.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1753205718878/16b9427d-f8ce-42c6-9760-8be8b12ba9d3.png
 tags: bot, game-development, net
 
