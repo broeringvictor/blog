@@ -1,5 +1,5 @@
 ---
-title: "Aprendizado sobre bots - um estudo sobre API do sistema, ponteiros de memória e visão computacional, parte 1"
+title: "Aprendizado sobre bots - estudo sobre API do sistema, ponteiros de memória e visão computacional, parte 1"
 seoTitle: "Bots: API, Ponteiros, Visão Computacional"
 seoDescription: "Uma investigação técnica sobre a guerra entre bots de jogos e sistemas anti-cheat. Explore métodos como leitura de memória, análise de rede e em nv. kernel."
 datePublished: Tue Jul 22 2025 17:42:05 GMT+0000 (Coordinated Universal Time)
